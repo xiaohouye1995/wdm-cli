@@ -1,7 +1,7 @@
 {
   "name": "wonder-mobile-cli",
-  "version": "1.0.0",
-  "description": "网达移动多端脚手架",
+  "version": "1.0.1",
+  "description": "杭州网达移动多端脚手架",
   "main": "index.js",
   "bin": {
     "wonder-mobile-cli": "bin/main.js"
